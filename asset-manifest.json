@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/register-auth/static/css/main.5fac131b.css",
-    "main.js": "/register-auth/static/js/main.022b6a39.js",
-    "static/js/787.16cf1214.chunk.js": "/register-auth/static/js/787.16cf1214.chunk.js",
-    "index.html": "/register-auth/index.html",
-    "main.5fac131b.css.map": "/register-auth/static/css/main.5fac131b.css.map",
-    "main.022b6a39.js.map": "/register-auth/static/js/main.022b6a39.js.map",
-    "787.16cf1214.chunk.js.map": "/register-auth/static/js/787.16cf1214.chunk.js.map"
+    "main.css": "/Register/static/css/main.5fac131b.css",
+    "main.js": "/Register/static/js/main.8153476c.js",
+    "static/js/787.16cf1214.chunk.js": "/Register/static/js/787.16cf1214.chunk.js",
+    "index.html": "/Register/index.html",
+    "main.5fac131b.css.map": "/Register/static/css/main.5fac131b.css.map",
+    "main.8153476c.js.map": "/Register/static/js/main.8153476c.js.map",
+    "787.16cf1214.chunk.js.map": "/Register/static/js/787.16cf1214.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5fac131b.css",
-    "static/js/main.022b6a39.js"
+    "static/js/main.8153476c.js"
   ]
 }
